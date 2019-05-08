@@ -26,5 +26,9 @@
     "chai": "^4.1.2",
     "jest": "^22.4.3",
     "supertest": "^3.0.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
   }
 }
