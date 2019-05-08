@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e107c65-1123-423c-99a8-05d5d9c81ea8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/integration/integrations/controllers/office.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/integration/integrations/controllers/office.spec.js" afterDir="false" />
-    </list>
+    <list default="true" id="6e107c65-1123-423c-99a8-05d5d9c81ea8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -116,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/integration/integrations/controllers/office.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+            <state relative-caret-position="104">
+              <caret line="24" selection-start-line="24" selection-end-line="33" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -269,12 +267,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557216790987</updated>
       <workItem from="1557216793241" duration="9118000" />
-      <workItem from="1557327160807" duration="3089000" />
+      <workItem from="1557327160807" duration="3240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12207000" />
+    <option name="totallyTimeSpent" value="12358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
@@ -400,8 +398,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/integration/integrations/controllers/office.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+        <state relative-caret-position="104">
+          <caret line="24" selection-start-line="24" selection-end-line="33" selection-end-column="10" />
         </state>
       </provider>
     </entry>
